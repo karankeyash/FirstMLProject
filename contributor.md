@@ -4,4 +4,5 @@
 Ansh Sharma [wiredfoxterrier](https://github.com/wiredfoxterrier)
 
 ## Contributors
-Yash Karanke [karankeyash](https://github.com/karankeyash/)
+- Yash Karanke [karankeyash's Github](https://github.com/karankeyash/)  
+- Himank Varshney [VARhimank's Github](https://github.com/VARhimank)
