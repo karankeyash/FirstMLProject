@@ -9,7 +9,7 @@
 ***
 
 ## My Social Handles:-
-<a href="https://www.instagram.com/anshsharma17_/" rel="Instagram"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" width=30% /></a>
+<a href="https://www.instagram.com/anshsharma17_/" rel="Instagram"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" width=5% /></a>
 
 > [Instagram](https://www.instagram.com/anshsharma17_/)  
 
