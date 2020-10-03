@@ -10,11 +10,11 @@
 
 ## My Social Handles:-
 <p>
-<a href="https://www.instagram.com/anshsharma17_/" rel="Instagram"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" width=3% /></a>
-
+<a href="https://www.instagram.com/anshsharma17_/" rel="Instagram"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" width=3% /></a> 
 <a href="https://twitter.com/anshs17_" rel="Twitter"><img src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" width=3% /></a>
 
-<p/>
+
+</p>
 > [Instagram](https://www.instagram.com/anshsharma17_/)  
 
 > [Twitter](https://twitter.com/anshs17_)  
