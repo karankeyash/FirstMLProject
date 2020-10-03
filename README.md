@@ -1,9 +1,6 @@
 # Welcome to my FirstMLProject
-***
+
 ## This is a repository created by a beginner who is trying out Machine Learning (ML) Projects that had been learned online
-
-<p align="center"><img src="https://media.giphy.com/media/PjJ1cLHqLEveXysGDB/giphy.gif" width=40%></p>
-
 
 -This repository is for Text Recognition and will be coded **only** using Python3.
 
@@ -28,4 +25,4 @@
 
 ***
 
-##If you contribute to this repository please add your name on the contributor file.
+## If you contribute to this repository please add your name on the contributor file !
