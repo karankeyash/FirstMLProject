@@ -3,10 +3,10 @@
 This is a repository created by a beginner trying out Machine Learning Projects from has been learned online.
 
 
-[Instagram](https://www.instagram.com/anshsharma17_/)
-[Twitter](https://twitter.com/anshs17_)
-[LinkedIn](https://www.linkedin.com/in/ansh-sharma-73a5051a6/)
-[YouTube](https://www.youtube.com/channel/UCezjqwLWu4OfM0__kMh5VEQ?)
+[Instagram](https://www.instagram.com/anshsharma17_/) <br/>
+[Twitter](https://twitter.com/anshs17_) <br/>
+[LinkedIn](https://www.linkedin.com/in/ansh-sharma-73a5051a6/) <br/>
+[YouTube](https://www.youtube.com/channel/UCezjqwLWu4OfM0__kMh5VEQ?) <br/>
 
 
 Don't forget to star this repository and contribute to it. <br/>
